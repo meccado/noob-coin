@@ -1,0 +1,14 @@
+#
+# Project specific excludes
+#
+
+# Maven 
+bin/
+
+# Maven 
+target/
+
+# eclipse project file
+.settings/
+.classpath
+.project
